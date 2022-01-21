@@ -1,0 +1,26 @@
+{
+  "name": "as-spongebob",
+  "version": "0.0.1",
+  "description": "A web component to mAkE YoUr tExT Do tHiS.",
+  "type": "module",
+  "main": "umd/as-spongebob.js",
+  "browser": "umd/as-spongebob.js",
+  "module": "umd/as-spongebob.js",
+  "files": ["umd"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roger-Heathcote/as-spongebob.git"
+  },
+  "keywords": [
+    "spongebob"
+  ],
+  "author": "Roger Heathcote",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Roger-Heathcote/as-spongebob/issues"
+  },
+  "homepage": "https://github.com/Roger-Heathcote/as-spongebob#readme"
+}
