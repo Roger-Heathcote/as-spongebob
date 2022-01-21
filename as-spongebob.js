@@ -4,6 +4,6 @@ class AsSpongebob extends HTMLElement {
         this.textContent = chars.reduce((acc, val, idx)=>{
             return acc + (idx % 2 ? val.toUpperCase() : val.toLocaleLowerCase())
         }, "")
-    }
+    } // test
 }
 customElements.define('as-spongebob', AsSpongebob)
